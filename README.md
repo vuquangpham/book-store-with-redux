@@ -1,4 +1,4 @@
-## Food Order App
+## Book Store App
 Hey there, I have built this project for my self learning - web development with ReactJS.
 
 ### What can we do here?
@@ -15,6 +15,6 @@ Yea, I have used React from cra - create react app for building my project. In t
 - React hooks:
   - useState
   - useEffect
-- Redux for state management
+- Redux for state management and Redux Thunk (create Action Creator) to send my data into Backend Server
 - Custom hooks
 - CSS module
